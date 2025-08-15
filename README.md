@@ -7,4 +7,4 @@ This repository tracks my progress while learning web development through the Ud
 - Store exercises, notes, and mini-projects
 - Build consistency and a visible growth timeline
 
-Stay tuned for updates as I complete each section 🚀
+Stay tuned for updates as I complete each section! 🚀
