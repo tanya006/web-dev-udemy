@@ -21,4 +21,4 @@ Topics covered:
 - Clearer vision of the industry and role of web dev skills.
 
 ## Next Up
-- [Phase 1: HTML](../Phase-1-HTML/)
+- [Phase 1: HTML](../Phase 1: HTML)
