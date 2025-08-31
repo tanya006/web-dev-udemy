@@ -19,6 +19,3 @@ Topics covered:
 - Got a clear idea of the **languages and databases** I’ll be learning throughout the course.
 - Understood how frontend, backend, and APIs connect together.
 - Clearer vision of the industry and role of web dev skills.
-
-## Next Up
-- [Phase 1: HTML](../Phase 1: HTML/)
